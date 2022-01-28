@@ -1,0 +1,15 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\bin\Debug\net6.0\AulaReferenceAndValueTypes.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\bin\Debug\net6.0\AulaReferenceAndValueTypes.deps.json
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\bin\Debug\net6.0\AulaReferenceAndValueTypes.runtimeconfig.json
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\bin\Debug\net6.0\AulaReferenceAndValueTypes.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\bin\Debug\net6.0\ref\AulaReferenceAndValueTypes.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\bin\Debug\net6.0\AulaReferenceAndValueTypes.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\obj\Debug\net6.0\AulaReferenceAndValueTypes.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\obj\Debug\net6.0\AulaReferenceAndValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\obj\Debug\net6.0\AulaReferenceAndValueTypes.AssemblyInfoInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\obj\Debug\net6.0\AulaReferenceAndValueTypes.AssemblyInfo.cs
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\obj\Debug\net6.0\AulaReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\obj\Debug\net6.0\AulaReferenceAndValueTypes.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\obj\Debug\net6.0\ref\AulaReferenceAndValueTypes.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\obj\Debug\net6.0\AulaReferenceAndValueTypes.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaReferenceAndValueTypes\obj\Debug\net6.0\AulaReferenceAndValueTypes.genruntimeconfig.cache
