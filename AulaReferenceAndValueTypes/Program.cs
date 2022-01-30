@@ -4,9 +4,9 @@ using AulaReferenceAndValueTypes.Entities;
 public class Program
 {
     public static int Adicionar20(int a)
-        {
-            return a + 20;
-        }
+    {
+        return a + 20;
+    }
     public static void DemoValueType()
     {
         int a = 2;
@@ -21,18 +21,11 @@ public class Program
     }
     public static void Main()
     {
-        Pessoa p1 = new Pessoa();
-        p1.Nome = "Renata";
-        p1.Idade = 25;
-        p1.Documento = "01";
-        
-        System.Console.WriteLine($"Nome original: {p1.Nome}");
 
-        string novoNome = Console.ReadLine();
-        
-        TrocarNome(p1, novoNome);
-
-         System.Console.WriteLine($"Nome trocado: {p1.Nome}");
 
     }
+
+    
+
+}
 }
