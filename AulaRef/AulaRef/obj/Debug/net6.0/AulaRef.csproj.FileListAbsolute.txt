@@ -1,0 +1,15 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\bin\Debug\net6.0\AulaRef.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\bin\Debug\net6.0\AulaRef.deps.json
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\bin\Debug\net6.0\AulaRef.runtimeconfig.json
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\bin\Debug\net6.0\AulaRef.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\bin\Debug\net6.0\ref\AulaRef.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\bin\Debug\net6.0\AulaRef.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\obj\Debug\net6.0\AulaRef.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\obj\Debug\net6.0\AulaRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\obj\Debug\net6.0\AulaRef.AssemblyInfoInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\obj\Debug\net6.0\AulaRef.AssemblyInfo.cs
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\obj\Debug\net6.0\AulaRef.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\obj\Debug\net6.0\AulaRef.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\obj\Debug\net6.0\ref\AulaRef.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\obj\Debug\net6.0\AulaRef.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\AulaRef\AulaRef\obj\Debug\net6.0\AulaRef.genruntimeconfig.cache
