@@ -22,6 +22,34 @@ public class Program
 
         System.Console.WriteLine($"Meu novo nome é {nome}");
     }
+    public static void Demo3()
+    {
+        int[] numeros = new int[]{0, 3, 5, 8, 9};
+
+        MudarParaImpar(numeros);
+
+        System.Console.WriteLine($@"
+        O próximo nº ímpar relativo a cada um dos valores do array é: 
+        {string.Join(", ", numeros)}.");
+    }
+    public static void Demo4()
+    {
+        //É possível pedir por ReadLine cada um dos valores que vão formar meu array
+        int[] numeros2 = new int[]{0, 2, 4, 6, 8};
+        System.Console.WriteLine("Digite o número desejado: ");
+        var numero = int.Parse(ReadLine());
+
+        var IndiceEncontrado = EncontrarNumero(numeros2, numero);
+
+        if (IndiceEncontrado == -1)
+        {
+            System.Console.WriteLine("Número não encontrado no Array.");
+        }
+        else
+        {
+            System.Console.WriteLine($"O número foi encontrado no índice {IndiceEncontrado}.");
+        }
+    }
 
     public static void TrocarNome(Pessoa p1, string novoNome)
     {
@@ -47,16 +75,54 @@ public class Program
             }
         }
     }
+    static int EncontrarNumero(int[] numeros2, int numero)
+    {
+        for (int i = 0; i < numeros2.Length; i++)
+        {
+            if (numeros2[i] == numero)
+            {
+                return i;
+            }
+        }
+        return -1;
+    }
+    static bool EncontarPessoa(List<Pessoa> pessoas, Pessoa pessoa)
+    {
+        foreach (var item in pessoas)
+        {
+            //Aqui é importante especificar o valor Nome que está sendo buscado porque na real as duas referências apontam para lugares diferentes na memória, então o que quermos mesmo saber é se o nome de uma é igual ao da outra
+            //Ou seja, com Reference Types, para comparar valores temos que especificar as propriedades consultadas
+            if (item.Nome == pessoa.Nome)
+            {
+                return true;
+            }
+        }
+
+        return false;
+    }
     public static void Main()
     {
-        //É possível pedir por ReadLine cada um dos valores que vão formar meu array
-        int[] numeros = new int[]{0, 3, 5, 8, 9};
+        List<Pessoa> pessoas = new List<Pessoa>()
+        {
+            new Pessoa(){Nome = "Renata"},
+            new Pessoa(){Nome = "Mariana"},
+            new Pessoa(){Nome = "Alessandra"}
+        };
 
-        MudarParaImpar(numeros);
+        System.Console.WriteLine("Digite o nome que deseja identificar: ");
+        var nome = ReadLine();
+        var pessoa = new Pessoa(){Nome = nome};
+        var pessoaEncontrada = EncontarPessoa(pessoas, pessoa);
 
-        System.Console.WriteLine($@"
-        O próximo nº ímpar relativo a cada um dos valores do array é: 
-        {string.Join(", ", numeros)}.");
+        if (pessoaEncontrada)
+        {
+            System.Console.WriteLine("Pessoa identificada na lista.");
+        }
+        else
+        {
+            System.Console.WriteLine("Pessoa NÃO identificada na lista.");
+        }
+
 
     }
 
