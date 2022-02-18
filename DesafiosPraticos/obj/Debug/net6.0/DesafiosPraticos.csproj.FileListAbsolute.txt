@@ -1,0 +1,15 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\bin\Debug\net6.0\DesafiosPraticos.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\bin\Debug\net6.0\DesafiosPraticos.deps.json
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\bin\Debug\net6.0\DesafiosPraticos.runtimeconfig.json
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\bin\Debug\net6.0\DesafiosPraticos.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\bin\Debug\net6.0\ref\DesafiosPraticos.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\bin\Debug\net6.0\DesafiosPraticos.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\obj\Debug\net6.0\DesafiosPraticos.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\obj\Debug\net6.0\DesafiosPraticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\obj\Debug\net6.0\DesafiosPraticos.AssemblyInfoInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\obj\Debug\net6.0\DesafiosPraticos.AssemblyInfo.cs
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\obj\Debug\net6.0\DesafiosPraticos.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\obj\Debug\net6.0\DesafiosPraticos.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\obj\Debug\net6.0\ref\DesafiosPraticos.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\obj\Debug\net6.0\DesafiosPraticos.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\BootcampGFTStart\DesafiosPraticos\obj\Debug\net6.0\DesafiosPraticos.genruntimeconfig.cache
